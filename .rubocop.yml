@@ -1,0 +1,13 @@
+Style/StringLiterals:
+  Enabled: false
+Metrics/BlockLength:
+  Exclude:
+    - 'spec/*.rb'
+    - 'spec/**/*.rb'
+Layout/LineLength:
+  Enabled: true
+  Max: 120
+Style/NumericPredicate:
+  Enabled: false
+Style/FrozenStringLiteralComment:
+  Enabled: false
