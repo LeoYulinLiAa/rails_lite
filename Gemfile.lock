@@ -41,6 +41,7 @@ PLATFORMS
 DEPENDENCIES
   activesupport
   byebug
+  nio4r
   puma
   rack
   rspec
